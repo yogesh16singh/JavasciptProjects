@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #19172e;
+}
+
+.upper {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.head {
+    color: orangered;
+    font-size: 30px;
+
+}
+
+
+p {
+    color: yellowgreen;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+main {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 74vh;
+}
+
+span {
+    font-weight: 800;
+    background-color: #423e3e;
+    top: 220px;
+    left: 30px;
+    color: black;
+    font-size: 20px;
+    margin: 20px;
+    border: 3px solid white;
+    padding: 20px;
+
+}
